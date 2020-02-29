@@ -2,7 +2,7 @@
 
 * [Create admin](https://gist.github.com/sdieunidou/1813409ddfd0185c82c7)
 * [Rabbitmqctl](https://www.rabbitmq.com/rabbitmqctl.8.html#list_vhosts)
-* []()
+
 
 ### Quick start 
 1. Install Erlang for RMQ - [Link](https://www.erlang.org/downloads)
